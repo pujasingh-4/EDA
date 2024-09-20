@@ -1,5 +1,8 @@
 # wine-Quality-Prediction using matchine learning
 
+![image](https://github.com/user-attachments/assets/0f86d422-512a-4d2c-a5af-2b480cd53b45)
+
+
 ## Problem Statment
 
 i got this project during my internship in Oasis infobyte. I have to download the dataset from kaggle WineQT to built variouse classification model to predict wheather the quality of wine is good or bad.
