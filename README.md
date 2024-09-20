@@ -15,12 +15,12 @@ Do experiment with different classification methods to predict the good_quality 
 ## Steps taken in this project
 
 imported nessasary libraries
-Loading Data
-Cleaning data
-Understanding data
-Checking for null values
-Exporting Variables
-proportion of good and bad wines
+Loading Data,
+Cleaning data,
+Understanding data,
+Checking for null values,
+Exporting Variables,
+proportion of good and bad wines,
 Applying differnt methods like-
 1.Logical Regression
 2. Random Forest 
