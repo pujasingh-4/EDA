@@ -6,7 +6,7 @@
 
 ## Problem Statment
 
-i got this project during my internship in Oasis infobyte. I have to download the dataset from kaggle WineQT to built variouse classification model to predict wheather the quality of wine is good or bad.
+i got this project during my internship in Unified Mentor. I have to download the dataset from kaggle WineQT to built variouse classification model to predict wheather the quality of wine is good or bad.
 Each wine Quality is scored between 3 to 8.The quality of wine is determined by 11 input variable.
 
 ## Objectives
