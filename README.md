@@ -1,5 +1,5 @@
 
-# wine-Quality-Prediction using matchine learning
+# wine-Quality-Prediction using machine learning
 
 ![image](https://github.com/user-attachments/assets/47889957-5676-46d4-a913-5be97d4702bf)
 
